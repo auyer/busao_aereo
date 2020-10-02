@@ -1,4 +1,4 @@
-# Django Flight Company Sample-for the safest and comfortable journey
+# Django Flights Company -experience the safest and comfortable journey ever-Sample 
 Based on the Django Girls tutorial: http://tutorial.djangogirls.org/
 
 
